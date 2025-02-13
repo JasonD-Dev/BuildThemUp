@@ -7,6 +7,8 @@ Build Them Up was created and produced by a group of Computer science and Game d
 > [!IMPORTANT]
 > Credits: [ThePlaceholderGames](https://theplaceholdergames.itch.io/) Itch.io Page.
 
+> <img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU4MDIyNy5wbmc=/original/o1ZbbV.png" width=800 height=420>
+
 ## Controls
 > [!TIP]
 > **WASD** - Move
@@ -24,6 +26,9 @@ Build Them Up was created and produced by a group of Computer science and Game d
 > **Q** - Switch Turret ( Whilst Holding TurretSpawner Tool
 >
 > **ESC** - Pause Menu
+>
+
+> <img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc1MS5wbmc=/original/OeY3%2Bv.png" width=750 height=400>
 
 ## Install instructions
 ### Windows
@@ -73,14 +78,11 @@ Build Them Up was created and produced by a group of Computer science and Game d
 
 > [!NOTE]
 > Congratulations! You have successfully installed Build Them Up for Mac.
+ 
+> <img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc0OC5wbmc=/original/wa3BMp.png" width=800 height=420>
 
 ## Trailer
-[![Watch the video](https://img.youtube.com/vi/do7966R0wLQ/maxresdefault.jpg)](https://youtu.be/do7966R0wLQ)
+> [![Watch the video](https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc1MC5wbmc=/original/3xv8dg.png)](https://youtu.be/do7966R0wLQ)
 
 ### [Watch this video on YouTube](https://youtu.be/do7966R0wLQ)
-## Preview
-<img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU4MDIyNy5wbmc=/original/o1ZbbV.png" width=800 height=420>
-<img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc1MS5wbmc=/original/OeY3%2Bv.png" width=800 height=420>
-<img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc0OC5wbmc=/original/wa3BMp.png" width=800 height=420>
-<img src="https://img.itch.zone/aW1hZ2UvMzI4MDY4MS8xOTU3OTc1MC5wbmc=/original/3xv8dg.png" width=800 height=420>
 
